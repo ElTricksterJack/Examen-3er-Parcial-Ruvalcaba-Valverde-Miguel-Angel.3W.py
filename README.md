@@ -21,6 +21,12 @@
 ![image](https://github.com/user-attachments/assets/894d3fa6-450f-4e5b-9acc-5502fcba1f63)
 
 # Punto 5
-![image](https://github.com/user-attachments/assets/15f8a043-8bc0-426e-aabe-c053a4bc7d11)
-![image](https://github.com/user-attachments/assets/0c052051-adaf-4bb2-8cbf-028c37d54b10)
-![image](https://github.com/user-attachments/assets/fb4b1499-d66c-4712-b311-61d942c7ffb3)
+![image](https://github.com/user-attachments/assets/7c2699b0-11c5-480a-9cf6-c201e207c1d3)
+![image](https://github.com/user-attachments/assets/4f2e87f4-6bbb-4223-8de8-a071978329c9)
+![image](https://github.com/user-attachments/assets/0a93d8f3-8f99-45a8-894e-0c964cf6ec3a)
+![image](https://github.com/user-attachments/assets/9b82e280-fbf9-4dd9-891c-16af6a020629)
+![image](https://github.com/user-attachments/assets/905da2ce-66e8-470d-9533-e219efcc67d4)
+![image](https://github.com/user-attachments/assets/c7907558-1f50-49ed-b10d-58e3e375c908)
+
+![image](https://github.com/user-attachments/assets/aa4d0467-5c29-42db-9e2e-8b1a1d507112)
+* Nota: tengo ganas de dibujar y leer undead unluck, sin mas me despido adios.
