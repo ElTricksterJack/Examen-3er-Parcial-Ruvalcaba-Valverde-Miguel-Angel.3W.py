@@ -1,6 +1,6 @@
 print("\nRuvalcaba Valverde Miguel Angel_1212_3W")
 print("---------------Examen 3-Punto 2---------------")
-class alumno:#Primero creamos la clase
+class persona:#Primero creamos la clase
     def __init__(self, name, ed):#aqui definimos los atributos
         self.name = name #definimos que los atributos son parte del self
         self.ed = ed
@@ -14,6 +14,6 @@ class alumno:#Primero creamos la clase
             print(f"veras {self.name} hay 2 opcines o me estas mintiendo o tienes un pie entre la muerte y la vida")
         else:#despues si eres mayor de edad se puestra el respectivo mensaje, grasias al else
             print(f"{self.name} eres menor de edad")
-e = alumno("",0)#definido creamos esta variable, que rellenamos temporal mente los espacioes en blanco.
+e = persona("",0)#definido creamos esta variable, que rellenamos temporal mente los espacioes en blanco.
 e.moscal()#y ya la podemos invocar, ahora es fucional
 print("-------------------------------------")
